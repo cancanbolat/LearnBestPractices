@@ -1,0 +1,14 @@
+D:\CAN\repos-D\BP\BP\BP.Api.Service\bin\Debug\netcoreapp3.1\BP.Api.Service.deps.json
+D:\CAN\repos-D\BP\BP\BP.Api.Service\bin\Debug\netcoreapp3.1\BP.Api.Service.dll
+D:\CAN\repos-D\BP\BP\BP.Api.Service\bin\Debug\netcoreapp3.1\BP.Api.Service.pdb
+D:\CAN\repos-D\BP\BP\BP.Api.Service\bin\Debug\netcoreapp3.1\BP.Api.Data.Models.dll
+D:\CAN\repos-D\BP\BP\BP.Api.Service\bin\Debug\netcoreapp3.1\BP.Api.Models.dll
+D:\CAN\repos-D\BP\BP\BP.Api.Service\bin\Debug\netcoreapp3.1\BP.Api.Data.Models.pdb
+D:\CAN\repos-D\BP\BP\BP.Api.Service\bin\Debug\netcoreapp3.1\BP.Api.Models.pdb
+D:\CAN\repos-D\BP\BP\BP.Api.Service\obj\Debug\netcoreapp3.1\BP.Api.Service.csprojAssemblyReference.cache
+D:\CAN\repos-D\BP\BP\BP.Api.Service\obj\Debug\netcoreapp3.1\BP.Api.Service.AssemblyInfoInputs.cache
+D:\CAN\repos-D\BP\BP\BP.Api.Service\obj\Debug\netcoreapp3.1\BP.Api.Service.AssemblyInfo.cs
+D:\CAN\repos-D\BP\BP\BP.Api.Service\obj\Debug\netcoreapp3.1\BP.Api.Service.csproj.CoreCompileInputs.cache
+D:\CAN\repos-D\BP\BP\BP.Api.Service\obj\Debug\netcoreapp3.1\BP.Api.Service.csproj.CopyComplete
+D:\CAN\repos-D\BP\BP\BP.Api.Service\obj\Debug\netcoreapp3.1\BP.Api.Service.dll
+D:\CAN\repos-D\BP\BP\BP.Api.Service\obj\Debug\netcoreapp3.1\BP.Api.Service.pdb

@@ -1,0 +1,9 @@
+D:\CAN\repos-D\BP\BP\BP.Api.Models\bin\Debug\netcoreapp3.1\BP.Api.Models.deps.json
+D:\CAN\repos-D\BP\BP\BP.Api.Models\bin\Debug\netcoreapp3.1\BP.Api.Models.dll
+D:\CAN\repos-D\BP\BP\BP.Api.Models\bin\Debug\netcoreapp3.1\BP.Api.Models.pdb
+D:\CAN\repos-D\BP\BP\BP.Api.Models\obj\Debug\netcoreapp3.1\BP.Api.Models.csprojAssemblyReference.cache
+D:\CAN\repos-D\BP\BP\BP.Api.Models\obj\Debug\netcoreapp3.1\BP.Api.Models.AssemblyInfoInputs.cache
+D:\CAN\repos-D\BP\BP\BP.Api.Models\obj\Debug\netcoreapp3.1\BP.Api.Models.AssemblyInfo.cs
+D:\CAN\repos-D\BP\BP\BP.Api.Models\obj\Debug\netcoreapp3.1\BP.Api.Models.csproj.CoreCompileInputs.cache
+D:\CAN\repos-D\BP\BP\BP.Api.Models\obj\Debug\netcoreapp3.1\BP.Api.Models.dll
+D:\CAN\repos-D\BP\BP\BP.Api.Models\obj\Debug\netcoreapp3.1\BP.Api.Models.pdb

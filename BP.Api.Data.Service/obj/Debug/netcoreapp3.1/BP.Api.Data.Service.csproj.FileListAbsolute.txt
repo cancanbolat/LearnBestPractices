@@ -1,0 +1,16 @@
+D:\CAN\repos-D\BP\BP\BP.Api.Data.Service\bin\Debug\netcoreapp3.1\BP.Api.Data.Service.deps.json
+D:\CAN\repos-D\BP\BP\BP.Api.Data.Service\bin\Debug\netcoreapp3.1\BP.Api.Data.Service.dll
+D:\CAN\repos-D\BP\BP\BP.Api.Data.Service\bin\Debug\netcoreapp3.1\BP.Api.Data.Service.pdb
+D:\CAN\repos-D\BP\BP\BP.Api.Data.Service\obj\Debug\netcoreapp3.1\BP.Api.Data.Service.AssemblyInfoInputs.cache
+D:\CAN\repos-D\BP\BP\BP.Api.Data.Service\obj\Debug\netcoreapp3.1\BP.Api.Data.Service.AssemblyInfo.cs
+D:\CAN\repos-D\BP\BP\BP.Api.Data.Service\obj\Debug\netcoreapp3.1\BP.Api.Data.Service.csproj.CoreCompileInputs.cache
+D:\CAN\repos-D\BP\BP\BP.Api.Data.Service\obj\Debug\netcoreapp3.1\BP.Api.Data.Service.dll
+D:\CAN\repos-D\BP\BP\BP.Api.Data.Service\obj\Debug\netcoreapp3.1\BP.Api.Data.Service.pdb
+E:\CAN\repos-D\BP\BP\BP.Api.Data.Service\bin\Debug\netcoreapp3.1\BP.Api.Data.Service.deps.json
+E:\CAN\repos-D\BP\BP\BP.Api.Data.Service\bin\Debug\netcoreapp3.1\BP.Api.Data.Service.dll
+E:\CAN\repos-D\BP\BP\BP.Api.Data.Service\bin\Debug\netcoreapp3.1\BP.Api.Data.Service.pdb
+E:\CAN\repos-D\BP\BP\BP.Api.Data.Service\obj\Debug\netcoreapp3.1\BP.Api.Data.Service.AssemblyInfoInputs.cache
+E:\CAN\repos-D\BP\BP\BP.Api.Data.Service\obj\Debug\netcoreapp3.1\BP.Api.Data.Service.AssemblyInfo.cs
+E:\CAN\repos-D\BP\BP\BP.Api.Data.Service\obj\Debug\netcoreapp3.1\BP.Api.Data.Service.csproj.CoreCompileInputs.cache
+E:\CAN\repos-D\BP\BP\BP.Api.Data.Service\obj\Debug\netcoreapp3.1\BP.Api.Data.Service.dll
+E:\CAN\repos-D\BP\BP\BP.Api.Data.Service\obj\Debug\netcoreapp3.1\BP.Api.Data.Service.pdb
